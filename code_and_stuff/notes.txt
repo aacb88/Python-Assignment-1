@@ -1,0 +1,11 @@
+'12345'.zfill(6)
+
+Takes the existing string and adds a zero at the front
+
+type(new_string)
+
+type(new_string) == str
+
+if type(new_string) == str
+
+str, int, float, dict, list
